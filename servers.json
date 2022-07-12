@@ -1522,5 +1522,12 @@
         "addresses": [
             "revenge.cc"
         ]
-    }
+    },
+    {
+        "id": "HeavenPvP",
+        "name": "HeavenPvP Network",
+        "addresses": [
+            "Heavenpvp.net"
+        ]
+    },
 ]
